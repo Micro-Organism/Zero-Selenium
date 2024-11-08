@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: zero-selenium-boot
+application:
+    url: https://www.google.com
+screenshot:
+    path: D:\\tmp
+browser: chrome
